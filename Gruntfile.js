@@ -1,4 +1,4 @@
-# Based on http://www.mrspeaker.net/2013/07/29/pixelmator-save-project-reload/
+// Based on http://www.mrspeaker.net/2013/07/29/pixelmator-save-project-reload/
 
 var path = require('path');
 module.exports = function(grunt) {
